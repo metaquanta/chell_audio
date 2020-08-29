@@ -1,3 +1,5 @@
+# https://chromium.googlesource.com/chromiumos/overlays/board-overlays/+/refs/heads/master/overlay-chell/chromeos-base/chromeos-bsp-chell/files/kernelnext-audio-config/cras-config/sklnau8825adi
+
 [Speaker]
   volume_curve = explicit
   db_at_100 = -2000
